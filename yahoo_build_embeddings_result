@@ -1,0 +1,67 @@
+Using TensorFlow backend.
+org_dic and org_inv_dic already exists, build and save the dict...
+reading path: yahoo_answers/train
+dist_counter not exists, create and save...
+Loading Glove Model
+Done. 65713  words loaded!
+Number of not found words =  16039
+embeddings_glove not exists, creating
+Loading Glove Model
+Done. 2196007  words loaded!
+Number of not found words =  4118
+small dist matrix not exists, create and save...
+0/50000 processed.
+1000/50000 processed.
+2000/50000 processed.
+3000/50000 processed.
+4000/50000 processed.
+5000/50000 processed.
+6000/50000 processed.
+7000/50000 processed.
+8000/50000 processed.
+9000/50000 processed.
+10000/50000 processed.
+11000/50000 processed.
+12000/50000 processed.
+13000/50000 processed.
+14000/50000 processed.
+15000/50000 processed.
+16000/50000 processed.
+17000/50000 processed.
+18000/50000 processed.
+19000/50000 processed.
+20000/50000 processed.
+21000/50000 processed.
+22000/50000 processed.
+23000/50000 processed.
+24000/50000 processed.
+25000/50000 processed.
+26000/50000 processed.
+27000/50000 processed.
+28000/50000 processed.
+29000/50000 processed.
+30000/50000 processed.
+31000/50000 processed.
+32000/50000 processed.
+33000/50000 processed.
+34000/50000 processed.
+35000/50000 processed.
+36000/50000 processed.
+37000/50000 processed.
+38000/50000 processed.
+39000/50000 processed.
+40000/50000 processed.
+41000/50000 processed.
+42000/50000 processed.
+43000/50000 processed.
+44000/50000 processed.
+45000/50000 processed.
+46000/50000 processed.
+47000/50000 processed.
+48000/50000 processed.
+49000/50000 processed.
+50000/50000 processed.
+Test synonyms:
+enc_dic not exists, creating and saving...
+The lenth of encoded dict: 50000 
+The lenth of encoded dict: 16564
