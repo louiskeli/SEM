@@ -1,7 +1,7 @@
-original sentence: israeli tanks surge into gaza refugee camp witnesses gaza \( reuters \) a column of israeli tanks surged into the heart of the jabalya refugee camp in the northern gaza strip on thursday as the army broadened its sweep for militants behind a deadly rocket attack on an israeli town 
-2021-01-22 13:43:57 - root - INFO: - adversarial sentence: israeli reservoirs surge into gaza refugee camp witnesses gaza \( reuters \) a column of israeli reservoirs surged into the heart of the tmm refugee camp in the nord gazza banding on thursday as the army broadened its scavenge for militant behind a mortal projectile attack on an israeli town
-2021-01-22 13:43:57 - root - INFO: - Current change number: 10, change ratio: 0.200
-2021-01-22 13:43:57 - root - INFO: - Current mean change ratio: 0.118
-2021-01-22 13:43:57 - root - INFO: - Current attack success rate: 0.796
-2021-01-22 13:43:57 - root - INFO: - Total attack success rate: 0.796
-2021-01-22 13:43:57 - root - INFO: - Total mean change ratio: 0.118 
+- original sentence: how to find a registry of a specific application \? how to remove registry of a specific application press start , select run n ntype regedit n nthen press control f and type in the applications name 
+2021-01-19 06:09:13 - root - INFO: - adversarial sentence: how to find a registry of a specific application \? how to removing registry of a specific application press start , select run n ntype colossians n nthen press control f and type in the applications name
+2021-01-19 06:09:13 - root - INFO: - Current change number: 2, change ratio: 0.054
+2021-01-19 06:09:13 - root - INFO: - Current mean change ratio: 0.062
+2021-01-19 06:09:13 - root - INFO: - Current attack success rate: 0.938
+2021-01-19 06:09:13 - root - INFO: - Total attack success rate: 0.938
+2021-01-19 06:09:13 - root - INFO: - Total mean change ratio: 0.062 
