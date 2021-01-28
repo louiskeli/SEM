@@ -1,7 +1,7 @@
-- original sentence: how to find a registry of a specific application \? how to remove registry of a specific application press start , select run n ntype regedit n nthen press control f and type in the applications name 
-2021-01-19 06:09:13 - root - INFO: - adversarial sentence: how to find a registry of a specific application \? how to removing registry of a specific application press start , select run n ntype colossians n nthen press control f and type in the applications name
-2021-01-19 06:09:13 - root - INFO: - Current change number: 2, change ratio: 0.054
-2021-01-19 06:09:13 - root - INFO: - Current mean change ratio: 0.062
-2021-01-19 06:09:13 - root - INFO: - Current attack success rate: 0.938
-2021-01-19 06:09:13 - root - INFO: - Total attack success rate: 0.938
-2021-01-19 06:09:13 - root - INFO: - Total mean change ratio: 0.062 
+- original sentence: how to qualify this film , simply horrible it is badly done with poor dialogues , reeves played as bad as ever and cameron diaz competed with him do not waste your time watching such a film although a big waste of money has already occurred to make the film 
+2021-01-16 21:39:35 - root - INFO: - adversarial sentence: how to qualifying this film , straightforward horrifying it is badly done with pauper dialogues , reeves played as mala as perpetually and cameron diaz competed with him do not debris your time seeing such a film although a big debris of money has because occurred to make the film
+2021-01-16 21:39:35 - root - INFO: - Current change number: 10, change ratio: 0.200
+2021-01-16 21:39:35 - root - INFO: - Current mean change ratio: 0.070
+2021-01-16 21:39:35 - root - INFO: - Current attack success rate: 0.975
+2021-01-16 21:39:35 - root - INFO: - Total attack success rate: 0.975
+2021-01-16 21:39:35 - root - INFO: - Total mean change ratio: 0.070 
