@@ -1,0 +1,7 @@
+original sentence: israeli tanks surge into gaza refugee camp witnesses gaza \( reuters \) a column of israeli tanks surged into the heart of the jabalya refugee camp in the northern gaza strip on thursday as the army broadened its sweep for militants behind a deadly rocket attack on an israeli town 
+2021-01-22 13:43:57 - root - INFO: - adversarial sentence: israeli reservoirs surge into gaza refugee camp witnesses gaza \( reuters \) a column of israeli reservoirs surged into the heart of the tmm refugee camp in the nord gazza banding on thursday as the army broadened its scavenge for militant behind a mortal projectile attack on an israeli town
+2021-01-22 13:43:57 - root - INFO: - Current change number: 10, change ratio: 0.200
+2021-01-22 13:43:57 - root - INFO: - Current mean change ratio: 0.118
+2021-01-22 13:43:57 - root - INFO: - Current attack success rate: 0.796
+2021-01-22 13:43:57 - root - INFO: - Total attack success rate: 0.796
+2021-01-22 13:43:57 - root - INFO: - Total mean change ratio: 0.118 
